@@ -244,3 +244,9 @@ Received Import Request.
   path: Assets/Materials/Ground.mat
   artifactKey: Guid(5edc577a186cc47f3a2a0b63d9cb1c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/Ground.mat using Guid(5edc577a186cc47f3a2a0b63d9cb1c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560bc239a391d0182af8b0770ae16e29') in 0.084941 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 168.623004 seconds.
+  path: Assets/Materials/Box.mat
+  artifactKey: Guid(20962beaef91c46f7b2c2a8d04d03e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Box.mat using Guid(20962beaef91c46f7b2c2a8d04d03e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c85db194f5b08e29d08bbc05e84e571') in 0.021165 seconds 
